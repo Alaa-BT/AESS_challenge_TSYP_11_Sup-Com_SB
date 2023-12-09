@@ -50,4 +50,4 @@ A detailed description of the design, features and functionalities is provided i
 ###
 ### Functionalities:
 ###
-The rover will be able to take photos, take samples and make mesearments 
+The rover will be able to take photos, samples and make various physical mesearments.
