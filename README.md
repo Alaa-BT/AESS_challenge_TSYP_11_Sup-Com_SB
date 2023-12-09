@@ -41,10 +41,13 @@ A detailed description of the design, features and functionalities is provided i
 [leg photo here]
 - Solar panels and batteries for the harvesting and storage of solar energy.
 [panels photo]
-- Radioisotope thermoelectric generators that convert nuclear energy of decaying radioactive isotopes into emlectric energy, these generators are stored safely inside the rover.
-[photo of the thermonuclear generators]
 - Advanced camera system
 [photo of the Camera system]
 - Advanced sensors of multiple types and functionalities
 [photo of sensors]
+- Advanced computer system that enables computing and information analysis
+- Radioisotope thermoelectric generators that convert nuclear energy of decaying radioactive isotopes into emlectric energy, these generators are stored safely inside the rover.
 ###
+### Functionalities:
+###
+The rover will be able to take photos, take samples and make mesearments 
