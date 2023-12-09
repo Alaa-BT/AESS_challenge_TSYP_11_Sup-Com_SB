@@ -32,7 +32,7 @@ A detailed description of the design, features and functionalities is provided i
 ###
 #### Now here's a brief walkthrough of the 3D model and the key features: 
 ###
-![Screenshot 2023-12-09 221046](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/6b0fa8e4-a378-4393-9363-afbff228edb6)
+![Screenshot 2023-12-09 221503](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/3e9853dc-7c71-442e-a6f2-28e18c1c168d)
 ###
 - 2 pairs of flexible legs designed for walking and navigating the rough terrain:
 ###
@@ -43,10 +43,12 @@ A detailed description of the design, features and functionalities is provided i
 ![Screenshot 2023-12-09 220959](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/25263e8b-8590-4542-a9b8-16c32137fef6)
 ###
 - Solar panels and batteries for the harvesting and storage of solar energy.
-[panels photo]
+###
+![Screenshot 2023-12-09 221046](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/6b0fa8e4-a378-4393-9363-afbff228edb6)
 ###
 - Advanced camera system
-[photo of the Camera system]
+###
+![Screenshot 2023-12-09 221402](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/c184fb3a-693e-4259-9925-67261173f5ef)
 ###
 - Advanced sensors of multiple types and functionalities
 ###
