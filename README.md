@@ -16,3 +16,5 @@ Asteroids, often referred to as the remnants of the early solar system, are cele
 These rocky and metallic objects vary widely in size, shape, and composition, forming a diverse population with unique geological features.
 The surfaces of asteroids present a challenging terrain for exploration, characterized by rugged landscapes marked with craters, boulders, and irregular topography. Due to their small size and low gravity, asteroids lack the geological processes that typically smooth surfaces on larger bodies, resulting in a visually complex and challenging environment.
 ###
+![surface](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/cc953c96-9c4b-4354-809a-68b6945f397d)
+###
