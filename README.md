@@ -35,10 +35,13 @@ A detailed description of the design, features and functionalities is provided i
 ###
 ###
 - 2 pairs of flexible legs designed for walking and navigating the rough terrain:
+###
 ![Screenshot 2023-12-09 220928](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/380e6dcb-8053-4a07-88c5-f9f5d523b459)
 ### 
 - 1 pair of specialized legs intended for drilling and stablizing the rover when using the other legs for sampling and mesearment taking:
-[leg photo here]
+###
+![Screenshot 2023-12-09 220959](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/25263e8b-8590-4542-a9b8-16c32137fef6)
+###
 - Solar panels and batteries for the harvesting and storage of solar energy.
 [panels photo]
 - Advanced camera system
