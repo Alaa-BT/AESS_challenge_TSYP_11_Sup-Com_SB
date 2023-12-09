@@ -28,7 +28,7 @@ Navigating the rough terrain of asteroids requires a rover designed to handle th
 ### 
 ### Rover design
 ###
-A detailed description of the design, features and functionalities is provided in the the user manual [link here]
+A detailed description of the design, features and functionalities is provided in the the user manual (https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/blob/main/user_manual-2.pdf)
 ###
 #### Now here's a brief walkthrough of the 3D model and the key features: 
 ###
