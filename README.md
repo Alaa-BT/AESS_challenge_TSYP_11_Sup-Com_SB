@@ -20,3 +20,4 @@ The surfaces of asteroids present a challenging terrain for exploration, charact
 ###
 Navigating the rough terrain of asteroids requires a rover designed to handle the uncertainties of varied landscapes. Sharp ridges, jagged rocks, and uneven surfaces pose obstacles, demanding innovative engineering solutions to ensure mobility, stability, and adaptability.
 ###
+![surface of](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/dc236357-2d96-4a4d-b1b7-97c770316f27)
