@@ -66,5 +66,5 @@ A detailed description of the design, features and functionalities is provided i
 The rover will be able to take photos, samples and make various physical mesearments.
 ###
 ## Demo Video 
-[link]
+https://drive.google.com/file/d/1BYJzg1MampJSdg3uflqnDWQg-T_0kvnz/view?usp=sharing
 ###
