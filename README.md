@@ -12,3 +12,7 @@ Impetus embodies the spirit of overcoming challenges, pushing the boundaries of 
 Asteroids, often referred to as the remnants of the early solar system, are celestial bodies that orbit the sun, primarily located in the asteroid belt between Mars and Jupiter, which is our main target.
 ###
 ![far](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/7b62ffbc-028e-4968-a015-568693323341)
+###
+These rocky and metallic objects vary widely in size, shape, and composition, forming a diverse population with unique geological features.
+The surfaces of asteroids present a challenging terrain for exploration, characterized by rugged landscapes marked with craters, boulders, and irregular topography. Due to their small size and low gravity, asteroids lack the geological processes that typically smooth surfaces on larger bodies, resulting in a visually complex and challenging environment.
+###
