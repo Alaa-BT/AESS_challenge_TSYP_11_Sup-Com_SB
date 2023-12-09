@@ -24,3 +24,4 @@ Navigating the rough terrain of asteroids requires a rover designed to handle th
 ###
 ### In a nutshell 
 ###
+![shot](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/e37d73a9-04fc-4669-b14f-7ac4e3ababb0)
