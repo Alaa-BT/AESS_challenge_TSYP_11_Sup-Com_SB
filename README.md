@@ -7,4 +7,4 @@ In the vast realm of space exploration, Human Exploration rovers seek to overcom
 ### Introduction: 
 Welcome to Impetus, the forefront of innovation in asteroid exploration. In the pursuit of conquering the challenges posed by extraterrestrial landscapes, Impetus stands as a beacon of cutting-edge technology and engineering excellence. Inspired by the grandeur of space exploration, our rover is meticulously crafted to navigate the intricacies of asteroid environments, where irregular surfaces and unique conditions demand unparalleled innovation.
 Impetus embodies the spirit of overcoming challenges, pushing the boundaries of exploration, and contributing to the ever-expanding knowledge of asteroids - our celestial neighbors. In this challenge, we present a rover designed not just to traverse extraterrestrial landscapes but to redefine the standards of adaptability, precision, and resilience in the face of the unknown. 
-The following sections provide all the documentation of our work including including the technologies used.
+In the following sections we will provide all the documentation of our work including the technologies used.
