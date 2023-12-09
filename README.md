@@ -22,6 +22,29 @@ Navigating the rough terrain of asteroids requires a rover designed to handle th
 ###
 ![surface of](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/dc236357-2d96-4a4d-b1b7-97c770316f27)
 ###
-### In a nutshell 
+#### In a nutshell 
 ###
 ![shot](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/e37d73a9-04fc-4669-b14f-7ac4e3ababb0)
+### 
+### Rover design
+###
+A detailed description of the design, features and functionalities is provided in the the user manual [link here]
+###
+#### Now here's a brief walkthrough of the 3D model and the key features: 
+[insert the 3d model picture here]
+###
+###
+- 2 pairs of flexible legs designed for walking and navigating the rough terrain:
+[2-leg photo here]
+### 
+- 1 pair of specialized legs intended for drilling and stablizing the rover when using the other legs for sampling and mesearment taking:
+[leg photo here]
+- Solar panels and batteries for the harvesting and storage of solar energy.
+[panels photo]
+- Radioisotope thermoelectric generators that convert nuclear energy of decaying radioactive isotopes into emlectric energy, these generators are stored safely inside the rover.
+[photo of the thermonuclear generators]
+- Advanced camera system
+[photo of the Camera system]
+- Advanced sensors of multiple types and functionalities
+[photo of sensors]
+###
