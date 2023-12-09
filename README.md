@@ -8,7 +8,7 @@ In the vast realm of space exploration, Human Exploration rovers seek to overcom
 Welcome to Impetus, the forefront of innovation in asteroid exploration. In the pursuit of conquering the challenges posed by extraterrestrial landscapes, Impetus stands as a beacon of cutting-edge technology and engineering excellence. Inspired by the grandeur of space exploration, our rover is meticulously crafted to navigate the intricacies of asteroid environments, where irregular surfaces and unique conditions demand unparalleled innovation.
 Impetus embodies the spirit of overcoming challenges, pushing the boundaries of exploration, and contributing to the ever-expanding knowledge of asteroids - our celestial neighbors. In this challenge, we present a rover designed not just to traverse extraterrestrial landscapes but to redefine the standards of adaptability, precision, and resilience in the face of the unknown.
 ### Context:
-### The Asteroid environment:
+### The Asteroid environment
 Asteroids, often referred to as the remnants of the early solar system, are celestial bodies that orbit the sun, primarily located in the asteroid belt between Mars and Jupiter, which is our main target.
 ###
 ![far](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/7b62ffbc-028e-4968-a015-568693323341)
@@ -21,3 +21,6 @@ The surfaces of asteroids present a challenging terrain for exploration, charact
 Navigating the rough terrain of asteroids requires a rover designed to handle the uncertainties of varied landscapes. Sharp ridges, jagged rocks, and uneven surfaces pose obstacles, demanding innovative engineering solutions to ensure mobility, stability, and adaptability.
 ###
 ![surface of](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/dc236357-2d96-4a4d-b1b7-97c770316f27)
+###
+### In a nutshell 
+###
