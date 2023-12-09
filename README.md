@@ -54,6 +54,10 @@ A detailed description of the design, features and functionalities is provided i
 ###
 ![Screenshot 2023-12-09 221245](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/9e4df322-7aab-4063-9068-dfce7f810239)
 ###
+- Communication system:
+###
+![Screenshot 2023-12-09 223958](https://github.com/Alaa-BT/AESS_challenge_TSYP_11_Sup-Com_SB/assets/132910975/f3bcaff5-3c9c-4ef4-a63a-8a575c892c23)
+###
 - Advanced computer system that enables computing and information analysis
 - Radioisotope thermoelectric generators that convert nuclear energy of decaying radioactive isotopes into emlectric energy, these generators are stored safely inside the rover.
 ###
